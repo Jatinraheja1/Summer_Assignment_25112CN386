@@ -1,3 +1,4 @@
+// Program to print 3 digits Armstrong numbers.
 #include<stdio.h>
 int main(){
     int n,temp,sum,rem;
