@@ -5,7 +5,7 @@ int main(){
     printf("Enter a number upto which fibonacci series is to be printed :");
     scanf("%d",&n);
     printf("Fibonacci series upto %dth term is :",n);
-    for(int i=1;i<=n;i++){
+    for(int i=0;i<=n;i++){
         printf("%d\t",fib(i));
     }
 }
